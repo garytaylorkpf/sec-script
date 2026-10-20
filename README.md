@@ -1,0 +1,2 @@
+# sec-script
+small tools I use every day
